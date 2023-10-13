@@ -1,9 +1,9 @@
 ### 👋 Hi, I am David Gong
-### 💬 Visit my website at www.davidgonghongshen.com
+### 💬 Visit my website at :  www.davidgonghongshen.com
 ### 🔭 I’m currently studying at First City University College
 ### 🌱 I’m currently learning Computer Science with a focus on AI, Machine Learning, and Big Data.
 ### 👯 I'm looking to find a job as a Backend Developer, Java Developer, or an internship in AI, Machine Learning, or Big Data.
-### 📫 You can reach me at davidgonghongshen@gmail.com
+### 📫 You can reach me at :  davidgonghongshen@gmail.com
 
 <!--
 **davidgonghs/davidgonghs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
